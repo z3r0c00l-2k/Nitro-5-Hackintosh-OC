@@ -16,11 +16,11 @@
 | Audio            | Realtek ALC255                                             |
 | Touchpad         | ELAN 0504                                                  |
 | BIOS Version     | 1.30                                                       |
-| OpenCore Version | 0.6.0                                                      |
+| OpenCore Version | 0.6.1                                                      |
 
 <br/>
 
-hackintosh#### Supports MacOS 11.0 Beta
+#### Supports MacOS 11.0 Beta
 
 ![](Images/About.png)
 
