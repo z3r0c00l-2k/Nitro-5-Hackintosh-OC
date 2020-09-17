@@ -20,16 +20,16 @@
 
 <br/>
 
-#### Supports MacOS 10.15.x
+hackintosh#### Supports MacOS 11.0 Beta
 
 ![](Images/About.png)
 
-WiFi is working using [itlwm](https://github.com/OpenIntelWireless/itlwm) and [HeliPort](https://github.com/OpenIntelWireless/HeliPort)
+<br/>
+
+Intel WiFi is working with native Wi-Fi selection and switching using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.1.0)
 
 ![](Images/WiFi.png)
 
-Trackpad is working with full gesture support
-![](Images/Trackpad.png)
 <br/>
 
 ## Whats not working:
