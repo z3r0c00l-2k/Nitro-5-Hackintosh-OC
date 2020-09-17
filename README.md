@@ -6,17 +6,17 @@
 
 ## System Details
 
-| Model            | [Acer Nitro 5 AN515-54](https://www.flipkart.com/acer-nitro-5-core-i7-9th-gen-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-an515-54-742f-an515-54-76nb-gaming-laptop/p/itm89c6770573582?pid=COMFHNY8BHYY9JKK&lid=LSTCOMFHNY8BHYY9JKKJNZ2PE) |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Processor        | Intel i7-9750H                                                                                                                                                                                                                                                             |
-| GPU              | Intel UHD Graphics 630 & NVIDIA GeForce® GTX 1650                                                                                                                                                                                                                          |
-| Memory           | 2666MHz DDR4 2x8GB                                                                                                                                                                                                                                                         |
-| SSD              | 1x Hynix BC501 NVMe SSD 256 GB & 1x WD WDC SATA SSD 256 GB                                                                                                                                                                                                                 |
-| WiFi / BT        | Intel AC 9560                                                                                                                                                                                                                                                              |
-| Audio            | Realtek ALC255                                                                                                                                                                                                                                                             |
-| Touchpad         | ELAN 0504                                                                                                                                                                                                                                                                  |
-| BIOS Version     | 1.30                                                                                                                                                                                                                                                                       |
-| OpenCore Version | 0.6.0                                                                                                                                                                                                                                                                      |
+| Model            | Acer Nitro 5 AN515-54                                      |
+| :--------------- | :--------------------------------------------------------- |
+| Processor        | Intel i7-9750H                                             |
+| GPU              | Intel UHD Graphics 630 & NVIDIA GeForce® GTX 1650          |
+| Memory           | 2666MHz DDR4 2x8GB                                         |
+| SSD              | 1x Hynix BC501 NVMe SSD 256 GB & 1x WD WDC SATA SSD 256 GB |
+| WiFi / BT        | Intel AC 9560                                              |
+| Audio            | Realtek ALC255                                             |
+| Touchpad         | ELAN 0504                                                  |
+| BIOS Version     | 1.30                                                       |
+| OpenCore Version | 0.6.0                                                      |
 
 <br/>
 
