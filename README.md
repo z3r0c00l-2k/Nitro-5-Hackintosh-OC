@@ -16,17 +16,17 @@
 | Audio            | Realtek ALC255                                             |
 | Touchpad         | ELAN 0504                                                  |
 | BIOS Version     | 1.30                                                       |
-| OpenCore Version | 0.6.1                                                      |
+| OpenCore Version | 0.6.3                                                      |
 
 <br/>
 
-#### Supports MacOS 11.0 Beta
+#### Supports MacOS 11.0.1
 
 ![](Images/About.png)
 
 <br/>
 
-Intel WiFi is working with native Wi-Fi selection and switching using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.1.0)
+Intel WiFi is working with native Wi-Fi selection and switching using [AirportItlwm Beta](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.1.0)
 
 ![](Images/WiFi.png)
 
@@ -34,11 +34,17 @@ Intel WiFi is working with native Wi-Fi selection and switching using [AirportIt
 
 ## Whats not working:
 
-- HDMI 😪😪😪 (won't work because hdmi port is hardwired into GeForce® GTX 1650)
+- HDMI 😪 (won't work because hdmi port is hardwired into GeForce® GTX 1650). Don't worry read the note
 - Nvidia GeForce® GTX 1650
 - Bluetooth
 
 <br/>
+
+## Note:
+
+If you still want to use an external monitor, you can buy a USB3.0 to HDMI adapter with DisplayLink Chipset.
+
+[Here is a good one](https://www.amazon.in/gp/product/B013G4CJM8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 
 ## Credits
 
