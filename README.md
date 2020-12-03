@@ -36,7 +36,6 @@ Intel WiFi is working with native Wi-Fi selection and switching using [AirportIt
 
 - HDMI 😪 (won't work because hdmi port is hardwired into GeForce® GTX 1650). Don't worry read the note
 - Nvidia GeForce® GTX 1650
-- Bluetooth
 
 <br/>
 
@@ -55,3 +54,4 @@ If you still want to use an external monitor, you can buy a USB3.0 to HDMI adapt
 - Thanks to [alexandred](https://github.com/alexandred) for [VoodooI2C](https://github.com/alexandred/VoodooI2C).
 - Thanks to [hackintosh-stuff](https://github.com/hackintosh-stuff) for [ComboJack support for ALC255](https://github.com/hackintosh-stuff/ComboJack).
 - Thanks to [corpnewt](https://github.com/corpnewt) for [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
+- Thanks to [VampFOX67](https://github.com/VampFOX67) for sharing bluetooth fix.
