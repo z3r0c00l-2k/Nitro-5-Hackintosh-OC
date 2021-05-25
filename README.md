@@ -20,7 +20,7 @@
 
 <br/>
 
-#### Supports MacOS 11.2.2
+#### Supports MacOS 11.X
 
 ![](Images/About.png)
 
