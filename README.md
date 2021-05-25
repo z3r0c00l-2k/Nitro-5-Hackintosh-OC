@@ -16,17 +16,17 @@
 | Audio            | Realtek ALC255                                             |
 | Touchpad         | ELAN 0504                                                  |
 | BIOS Version     | 1.30                                                       |
-| OpenCore Version | 0.6.5                                                      |
+| OpenCore Version | 0.6.9                                                      |
 
 <br/>
 
-#### Supports MacOS 11.0.1
+#### Supports MacOS 11.2.2
 
 ![](Images/About.png)
 
 <br/>
 
-Intel WiFi is working with native Wi-Fi selection and switching using [AirportItlwm Beta](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.1.0)
+Intel WiFi is working with native Wi-Fi selection and switching using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm/releases)
 
 ![](Images/WiFi.png)
 
