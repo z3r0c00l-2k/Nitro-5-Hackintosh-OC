@@ -33,12 +33,23 @@
 
 <br/>
 
+## Installation Steps
+
+1. Download BigSur image from [here](https://www.olarila.com/topic/6278-olarila-vanilla-images/)
+2. Write this image to a USB drive using [Etcher](https://www.balena.io/etcher/)
+3. Mount EFI of the USB drive and Replace `EFI` folder from this repo
+4. Generate a new SMBIOS with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+5. Update to the `config.plist` in the USB drive's `EFI/OC` folder with new SMBIOS
+6. Boot with USB drive
+7. Follow the installer instructions
+
 ## Note:
 
 If you still want to use an external monitor, you can buy a USB3.0 to HDMI adapter with DisplayLink Chipset.
 
 [Here is a good one](https://www.amazon.in/gp/product/B013G4CJM8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 
+<br/>
 ## Credits
 
 - **Special Thanks** to [dortania](https://dortania.github.io/vanilla-laptop-guide) for the vanilla laptop guide.
