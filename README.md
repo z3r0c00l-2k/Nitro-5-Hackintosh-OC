@@ -1,5 +1,7 @@
 # Acer Nitro 5 AN515-54 Hackintosh
 
+#### Supports macOS Monterey 12.0 Beta
+
 ![](Images/Home.png)
 
 <br/>
@@ -11,18 +13,12 @@
 | Processor        | Intel i7-9750H                                             |
 | GPU              | Intel UHD Graphics 630 & NVIDIA GeForce® GTX 1650          |
 | Memory           | 2x 2666MHz DDR4 8GB                                        |
-| SSD              | 1x Hynix BC501 NVMe SSD 256 GB & 1x WD WDC SATA SSD 256 GB |
+| SSD              | 1x Hynix BC501 NVMe SSD 256 GB & 1x WD WDC SATA SSD 240 GB |
 | WiFi / BT        | Intel AC 9560                                              |
 | Audio            | Realtek ALC255                                             |
 | Touchpad         | ELAN 0504                                                  |
 | BIOS Version     | 1.33                                                       |
-| OpenCore Version | 0.7.0                                                      |
-
-<br/>
-
-#### Supports MacOS 11.X
-
-![](Images/About.png)
+| OpenCore Version | 0.7.1                                                      |
 
 <br/>
 
@@ -50,6 +46,7 @@ If you still want to use an external monitor, you can buy a USB3.0 to HDMI adapt
 [Here is a good one](https://www.amazon.in/gp/product/B013G4CJM8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 
 <br/>
+
 ## Credits
 
 - **Special Thanks** to [dortania](https://dortania.github.io/vanilla-laptop-guide) for the vanilla laptop guide.
