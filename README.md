@@ -1,5 +1,7 @@
 # Acer Nitro 5 AN515-54 Hackintosh
 
+#### Supports macOS Monterey 12.0 Beta
+
 ![](Images/Home.png)
 
 <br/>
@@ -16,7 +18,7 @@
 | Audio            | Realtek ALC255                                               |
 | Touchpad         | ELAN 0504                                                    |
 | BIOS Version     | 1.33                                                         |
-| OpenCore Version | 0.7.2                                                        |
+| OpenCore Version | 0.7.3                                                        |
 
 <br/>
 
@@ -40,6 +42,7 @@ If you still want to use an external monitor, you can buy a USB3.0 to HDMI adapt
 [Here is a good one](https://www.amazon.in/gp/product/B013G4CJM8/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 
 <br/>
+
 ## Credits
 
 - **Special Thanks** to [dortania](https://dortania.github.io/vanilla-laptop-guide) for the vanilla laptop guide.
