@@ -1,6 +1,6 @@
 # Acer Nitro 5 AN515-54 Hackintosh
 
-#### Supports macOS Monterey 12.0 Beta
+#### Supports macOS Monterey 12.0 Beta (Faced some crashes, so back to BigSur)
 
 ![](Images/Home.png)
 
