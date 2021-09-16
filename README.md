@@ -6,17 +6,17 @@
 
 ## System Details
 
-| Model            | Acer Nitro 5 AN515-54                                      |
-| :--------------- | :--------------------------------------------------------- |
-| Processor        | Intel i7-9750H                                             |
-| GPU              | Intel UHD Graphics 630 & NVIDIA GeForce® GTX 1650          |
-| Memory           | 2x 2666MHz DDR4 8GB                                        |
-| SSD              | 1x Hynix BC501 NVMe SSD 256 GB & 1x WD WDC SATA SSD 256 GB |
-| WiFi / BT        | Intel AC 9560                                              |
-| Audio            | Realtek ALC255                                             |
-| Touchpad         | ELAN 0504                                                  |
-| BIOS Version     | 1.33                                                       |
-| OpenCore Version | 0.7.0                                                      |
+| Model            | Acer Nitro 5 AN515-54                                        |
+| :--------------- | :----------------------------------------------------------- |
+| Processor        | Intel i7-9750H                                               |
+| GPU              | Intel UHD Graphics 630 & NVIDIA GeForce® GTX 1650 (Disabled) |
+| Memory           | 2x 2666MHz DDR4 8GB                                          |
+| SSD              | 1x Hynix BC501 NVMe SSD 256 GB & 1x WD WDC SATA SSD 256 GB   |
+| WiFi / BT        | Intel AC 9560                                                |
+| Audio            | Realtek ALC255                                               |
+| Touchpad         | ELAN 0504                                                    |
+| BIOS Version     | 1.33                                                         |
+| OpenCore Version | 0.7.2                                                        |
 
 <br/>
 
@@ -32,16 +32,6 @@
 - Nvidia GeForce® GTX 1650
 
 <br/>
-
-## Installation Steps
-
-1. Download BigSur image from [here](https://www.olarila.com/topic/6278-olarila-vanilla-images/)
-2. Write this image to a USB drive using [Etcher](https://www.balena.io/etcher/)
-3. Mount EFI of the USB drive and Replace `EFI` folder from this repo
-4. Generate a new SMBIOS with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-5. Update to the `config.plist` in the USB drive's `EFI/OC` folder with new SMBIOS
-6. Boot with USB drive
-7. Follow the installer instructions
 
 ## Note:
 
