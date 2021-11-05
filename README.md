@@ -1,6 +1,6 @@
 # Acer Nitro 5 AN515-54 Hackintosh
 
-#### Supports macOS Monterey 12.0 Beta (Faced some crashes, so back to BigSur)
+#### Running macOS Monterey 12.0.1
 
 ![](Images/Home.png)
 
@@ -18,13 +18,7 @@
 | Audio            | Realtek ALC255                                               |
 | Touchpad         | ELAN 0504                                                    |
 | BIOS Version     | 1.33                                                         |
-| OpenCore Version | 0.7.4                                                        |
-
-<br/>
-
-#### Supports MacOS 11.X
-
-![](Images/About.png)
+| OpenCore Version | 0.7.5                                                        |
 
 <br/>
 
