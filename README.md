@@ -30,6 +30,7 @@
 
 ## Whats not working:
 
+- **Trackpad (Broken in Monterey)**.
 - HDMI 😪 (won't work because hdmi port is hardwired into GeForce® GTX 1650). Don't worry read the note
 - Nvidia GeForce® GTX 1650
 
